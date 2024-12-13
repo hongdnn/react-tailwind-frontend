@@ -1,9 +1,10 @@
-import { Collections } from "./ui/Collections";
+
+import { ReviewForm } from "./ui/ReviewForm";
 
 function App() {
   return (
     <div className="flex w-full items-center justify-center bg-[#E6EFFA]">
-      <Collections />
+      <ReviewForm />
     </div>
   );
 }
